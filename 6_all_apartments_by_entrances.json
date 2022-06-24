@@ -1,0 +1,1198 @@
+[
+    [
+        {
+            "objectId": "166_066010000329881",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 1",
+            "apartment": "1",
+            "areaValue": 47.4,
+            "premisesFloor": 1,
+            "num_to_sort": "0001",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000339907",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.2",
+            "apartment": "2",
+            "areaValue": 33.3,
+            "premisesFloor": 1,
+            "num_to_sort": "0002",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000327955",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.3",
+            "apartment": "3",
+            "areaValue": 47.4,
+            "premisesFloor": 1,
+            "num_to_sort": "0003",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317693",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 4",
+            "apartment": "4",
+            "areaValue": 63.1,
+            "premisesFloor": 1,
+            "num_to_sort": "0004",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317664",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.5",
+            "apartment": "5",
+            "areaValue": 47.6,
+            "premisesFloor": 2,
+            "num_to_sort": "0005",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317640",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 6",
+            "apartment": "6",
+            "areaValue": 33.1,
+            "premisesFloor": 2,
+            "num_to_sort": "0006",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000318301",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 7",
+            "apartment": "7",
+            "areaValue": 47.3,
+            "premisesFloor": 2,
+            "num_to_sort": "0007",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000504194",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 8",
+            "apartment": "8",
+            "areaValue": 63.1,
+            "premisesFloor": 2,
+            "num_to_sort": "0008",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000334007",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 9",
+            "apartment": "9",
+            "areaValue": 47.6,
+            "premisesFloor": 3,
+            "num_to_sort": "0009",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000319791",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 10",
+            "apartment": "10",
+            "areaValue": 33.1,
+            "premisesFloor": 3,
+            "num_to_sort": "0010",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506274",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 11",
+            "apartment": "11",
+            "areaValue": 47.0,
+            "premisesFloor": 3,
+            "num_to_sort": "0011",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000504413",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 12",
+            "apartment": "12",
+            "areaValue": 63.0,
+            "premisesFloor": 3,
+            "num_to_sort": "0012",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317194",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.13",
+            "apartment": "13",
+            "areaValue": 47.7,
+            "premisesFloor": 4,
+            "num_to_sort": "0013",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000031793",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.14",
+            "apartment": "14",
+            "areaValue": 33.1,
+            "premisesFloor": 4,
+            "num_to_sort": "0014",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506644",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 15",
+            "apartment": "15",
+            "areaValue": 47.3,
+            "premisesFloor": 4,
+            "num_to_sort": "0015",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506671",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 16",
+            "apartment": "16",
+            "areaValue": 62.9,
+            "premisesFloor": 4,
+            "num_to_sort": "0016",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000306512",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 17",
+            "apartment": "17",
+            "areaValue": 47.4,
+            "premisesFloor": 5,
+            "num_to_sort": "0017",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317624",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.18.",
+            "apartment": "18",
+            "areaValue": 33.1,
+            "premisesFloor": 5,
+            "num_to_sort": "0018",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506376",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 19",
+            "apartment": "19",
+            "areaValue": 50.3,
+            "premisesFloor": 5,
+            "num_to_sort": "0019",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506517",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 20",
+            "apartment": "20",
+            "areaValue": 63.4,
+            "premisesFloor": 5,
+            "num_to_sort": "0020",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000325438",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.21",
+            "apartment": "21",
+            "areaValue": 47.5,
+            "premisesFloor": 6,
+            "num_to_sort": "0021",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317937",
+            "addressNote": "г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.22",
+            "apartment": "22",
+            "areaValue": 33.1,
+            "premisesFloor": 6,
+            "num_to_sort": "0022",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506059",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 23",
+            "apartment": "23",
+            "areaValue": 47.6,
+            "premisesFloor": 6,
+            "num_to_sort": "0023",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000504334",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 24",
+            "apartment": "24",
+            "areaValue": 63.2,
+            "premisesFloor": 6,
+            "num_to_sort": "0024",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000318177",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.25",
+            "apartment": "25",
+            "areaValue": 47.6,
+            "premisesFloor": 7,
+            "num_to_sort": "0025",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000318470",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.26",
+            "apartment": "26",
+            "areaValue": 33.2,
+            "premisesFloor": 7,
+            "num_to_sort": "0026",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506479",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 27",
+            "apartment": "27",
+            "areaValue": 47.3,
+            "premisesFloor": 7,
+            "num_to_sort": "0027",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000504284",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 28",
+            "apartment": "28",
+            "areaValue": 63.3,
+            "premisesFloor": 7,
+            "num_to_sort": "0028",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000312232",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.29",
+            "apartment": "29",
+            "areaValue": 47.4,
+            "premisesFloor": 8,
+            "num_to_sort": "0029",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000359343",
+            "addressNote": "Россия, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 30",
+            "apartment": "30",
+            "areaValue": 33.7,
+            "premisesFloor": 8,
+            "num_to_sort": "0030",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000074263",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.31",
+            "apartment": "31",
+            "areaValue": 47.4,
+            "premisesFloor": 8,
+            "num_to_sort": "0031",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000506693",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп.4, кв. 32",
+            "apartment": "32",
+            "areaValue": 63.3,
+            "premisesFloor": 8,
+            "num_to_sort": "0032",
+            "data_calculated": 1,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317357",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.33",
+            "apartment": "33",
+            "areaValue": 49.9,
+            "premisesFloor": 9,
+            "num_to_sort": "0033",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000316301",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 34",
+            "apartment": "34",
+            "areaValue": 33.3,
+            "premisesFloor": 9,
+            "num_to_sort": "0034",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000318779",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 35",
+            "apartment": "35",
+            "areaValue": 47.3,
+            "premisesFloor": 9,
+            "num_to_sort": "0035",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000330511",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.36",
+            "apartment": "36",
+            "areaValue": 63.5,
+            "premisesFloor": 9,
+            "num_to_sort": "0036",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000318084",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.37",
+            "apartment": "37",
+            "areaValue": 47.3,
+            "premisesFloor": 10,
+            "num_to_sort": "0037",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000317610",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.38",
+            "apartment": "38",
+            "areaValue": 33.1,
+            "premisesFloor": 10,
+            "num_to_sort": "0038",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000329259",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 39",
+            "apartment": "39",
+            "areaValue": 47.4,
+            "premisesFloor": 10,
+            "num_to_sort": "0039",
+            "data_calculated": 0,
+            "entrance": 1
+        },
+        {
+            "objectId": "166_066010000347115",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.40",
+            "apartment": "40",
+            "areaValue": 63.5,
+            "premisesFloor": 10,
+            "num_to_sort": "0040",
+            "data_calculated": 0,
+            "entrance": 1
+        }
+    ],
+    [
+        {
+            "objectId": "166_066010000352276",
+            "addressNote": "Россия, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.41",
+            "apartment": "41",
+            "areaValue": 48.0,
+            "premisesFloor": 1,
+            "num_to_sort": "0041",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000319396",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.42",
+            "apartment": "42",
+            "areaValue": 47.4,
+            "premisesFloor": 1,
+            "num_to_sort": "0042",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000346841",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 43",
+            "apartment": "43",
+            "areaValue": 63.0,
+            "premisesFloor": 1,
+            "num_to_sort": "0043",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000506309",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 44",
+            "apartment": "44",
+            "areaValue": 48.0,
+            "premisesFloor": 2,
+            "num_to_sort": "0044",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317563",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 45",
+            "apartment": "45",
+            "areaValue": 33.1,
+            "premisesFloor": 2,
+            "num_to_sort": "0045",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000506558",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 46",
+            "apartment": "46",
+            "areaValue": 47.2,
+            "premisesFloor": 2,
+            "num_to_sort": "0046",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000316821",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.47",
+            "apartment": "47",
+            "areaValue": 62.9,
+            "premisesFloor": 2,
+            "num_to_sort": "0047",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000506396",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 48",
+            "apartment": "48",
+            "areaValue": 48.1,
+            "premisesFloor": 3,
+            "num_to_sort": "0048",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317668",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.49",
+            "apartment": "49",
+            "areaValue": 33.2,
+            "premisesFloor": 3,
+            "num_to_sort": "0049",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317544",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 50",
+            "apartment": "50",
+            "areaValue": 47.2,
+            "premisesFloor": 3,
+            "num_to_sort": "0050",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000327743",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.51",
+            "apartment": "51",
+            "areaValue": 63.1,
+            "premisesFloor": 3,
+            "num_to_sort": "0051",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317401",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 52",
+            "apartment": "52",
+            "areaValue": 48.2,
+            "premisesFloor": 4,
+            "num_to_sort": "0052",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000320636",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв.53",
+            "apartment": "53",
+            "areaValue": 33.1,
+            "premisesFloor": 4,
+            "num_to_sort": "0053",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000488330",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус4, кв. 54",
+            "apartment": "54",
+            "areaValue": 47.0,
+            "premisesFloor": 4,
+            "num_to_sort": "0054",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317935",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.55",
+            "apartment": "55",
+            "areaValue": 63.5,
+            "premisesFloor": 4,
+            "num_to_sort": "0055",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000318242",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 56",
+            "apartment": "56",
+            "areaValue": 48.2,
+            "premisesFloor": 5,
+            "num_to_sort": "0056",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000318448",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.57",
+            "apartment": "57",
+            "areaValue": 33.2,
+            "premisesFloor": 5,
+            "num_to_sort": "0057",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000316603",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.58",
+            "apartment": "58",
+            "areaValue": 47.3,
+            "premisesFloor": 5,
+            "num_to_sort": "0058",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000318049",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.59",
+            "apartment": "59",
+            "areaValue": 63.3,
+            "premisesFloor": 5,
+            "num_to_sort": "0059",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000343673",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 60",
+            "apartment": "60",
+            "areaValue": 48.4,
+            "premisesFloor": 6,
+            "num_to_sort": "0060",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317770",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв.61",
+            "apartment": "61",
+            "areaValue": 33.3,
+            "premisesFloor": 6,
+            "num_to_sort": "0061",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000506434",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 62",
+            "apartment": "62",
+            "areaValue": 47.2,
+            "premisesFloor": 6,
+            "num_to_sort": "0062",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317580",
+            "addressNote": "Россия, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус4, кв. 63",
+            "apartment": "63",
+            "areaValue": 63.1,
+            "premisesFloor": 6,
+            "num_to_sort": "0063",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000506192",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 64",
+            "apartment": "64",
+            "areaValue": 48.6,
+            "premisesFloor": 7,
+            "num_to_sort": "0064",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000323783",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.65",
+            "apartment": "65",
+            "areaValue": 33.3,
+            "premisesFloor": 7,
+            "num_to_sort": "0065",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000506595",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 66",
+            "apartment": "66",
+            "areaValue": 47.4,
+            "premisesFloor": 7,
+            "num_to_sort": "0066",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000333398",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 67",
+            "apartment": "67",
+            "areaValue": 63.3,
+            "premisesFloor": 7,
+            "num_to_sort": "0067",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000504383",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 68",
+            "apartment": "68",
+            "areaValue": 48.3,
+            "premisesFloor": 8,
+            "num_to_sort": "0068",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000317553",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.69",
+            "apartment": "69",
+            "areaValue": 33.4,
+            "premisesFloor": 8,
+            "num_to_sort": "0069",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000318274",
+            "addressNote": "г Екатеринбург, ул Бисертская, д 16, корп 4, кв 70",
+            "apartment": "70",
+            "areaValue": 47.4,
+            "premisesFloor": 8,
+            "num_to_sort": "0070",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000321875",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.71",
+            "apartment": "71",
+            "areaValue": 63.0,
+            "premisesFloor": 8,
+            "num_to_sort": "0071",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000320458",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 72",
+            "apartment": "72",
+            "areaValue": 48.1,
+            "premisesFloor": 9,
+            "num_to_sort": "0072",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000316779",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 73",
+            "apartment": "73",
+            "areaValue": 33.3,
+            "premisesFloor": 9,
+            "num_to_sort": "0073",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000332518",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 74",
+            "apartment": "74",
+            "areaValue": 47.3,
+            "premisesFloor": 9,
+            "num_to_sort": "0074",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000330540",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.75",
+            "apartment": "75",
+            "areaValue": 63.1,
+            "premisesFloor": 9,
+            "num_to_sort": "0075",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000319538",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.76",
+            "apartment": "76",
+            "areaValue": 48.4,
+            "premisesFloor": 10,
+            "num_to_sort": "0076",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000318406",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.77",
+            "apartment": "77",
+            "areaValue": 33.4,
+            "premisesFloor": 10,
+            "num_to_sort": "0077",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000326715",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 78",
+            "apartment": "78",
+            "areaValue": 47.8,
+            "premisesFloor": 10,
+            "num_to_sort": "0078",
+            "data_calculated": 0,
+            "entrance": 2
+        },
+        {
+            "objectId": "166_066010000345721",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 79",
+            "apartment": "79",
+            "areaValue": 63.2,
+            "premisesFloor": 10,
+            "num_to_sort": "0079",
+            "data_calculated": 0,
+            "entrance": 2
+        }
+    ],
+    [
+        {
+            "objectId": "166_066010000319429",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 80",
+            "apartment": "80",
+            "areaValue": 64.3,
+            "premisesFloor": 1,
+            "num_to_sort": "0080",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000352762",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.81",
+            "apartment": "81",
+            "areaValue": 50.5,
+            "premisesFloor": 1,
+            "num_to_sort": "0081",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000318272",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.82",
+            "apartment": "82",
+            "areaValue": 36.2,
+            "premisesFloor": 1,
+            "num_to_sort": "0082",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000319452",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 83",
+            "apartment": "83",
+            "areaValue": 68.2,
+            "premisesFloor": 1,
+            "num_to_sort": "0083",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000346959",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв.84",
+            "apartment": "84",
+            "areaValue": 80.0,
+            "premisesFloor": 2,
+            "num_to_sort": "0084",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000347629",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 85",
+            "apartment": "85",
+            "areaValue": 50.6,
+            "premisesFloor": 2,
+            "num_to_sort": "0085",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000201687",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 86",
+            "apartment": "86",
+            "areaValue": 36.1,
+            "premisesFloor": 2,
+            "num_to_sort": "0086",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000346798",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.87",
+            "apartment": "87",
+            "areaValue": 68.3,
+            "premisesFloor": 2,
+            "num_to_sort": "0087",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000347057",
+            "addressNote": "Россия, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 88",
+            "apartment": "88",
+            "areaValue": 83.4,
+            "premisesFloor": 3,
+            "num_to_sort": "0088",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000322149",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.89",
+            "apartment": "89",
+            "areaValue": 50.8,
+            "premisesFloor": 3,
+            "num_to_sort": "0089",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000332860",
+            "addressNote": "г Екатеринбург, ул Бисертская, д 16, корп 4, кв 90",
+            "apartment": "90",
+            "areaValue": 36.3,
+            "premisesFloor": 3,
+            "num_to_sort": "0090",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000347183",
+            "addressNote": "Россия, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 91",
+            "apartment": "91",
+            "areaValue": 68.1,
+            "premisesFloor": 3,
+            "num_to_sort": "0091",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000317523",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 92",
+            "apartment": "92",
+            "areaValue": 82.9,
+            "premisesFloor": 4,
+            "num_to_sort": "0092",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000321413",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 93",
+            "apartment": "93",
+            "areaValue": 50.5,
+            "premisesFloor": 4,
+            "num_to_sort": "0093",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000317636",
+            "addressNote": "Россия, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус4, кв. 94",
+            "apartment": "94",
+            "areaValue": 36.1,
+            "premisesFloor": 4,
+            "num_to_sort": "0094",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000330501",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.95",
+            "apartment": "95",
+            "areaValue": 68.2,
+            "premisesFloor": 4,
+            "num_to_sort": "0095",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000319770",
+            "addressNote": "Россия, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп 4, кв. 96",
+            "apartment": "96",
+            "areaValue": 83.5,
+            "premisesFloor": 5,
+            "num_to_sort": "0096",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000318857",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 97",
+            "apartment": "97",
+            "areaValue": 50.4,
+            "premisesFloor": 5,
+            "num_to_sort": "0097",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000318059",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.98",
+            "apartment": "98",
+            "areaValue": 36.2,
+            "premisesFloor": 5,
+            "num_to_sort": "0098",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000330526",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус4, кв. 99",
+            "apartment": "99",
+            "areaValue": 68.3,
+            "premisesFloor": 5,
+            "num_to_sort": "0099",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000347021",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 100",
+            "apartment": "100",
+            "areaValue": 82.9,
+            "premisesFloor": 6,
+            "num_to_sort": "0100",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000319716",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.101",
+            "apartment": "101",
+            "areaValue": 50.6,
+            "premisesFloor": 6,
+            "num_to_sort": "0101",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000317672",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.102",
+            "apartment": "102",
+            "areaValue": 36.2,
+            "premisesFloor": 6,
+            "num_to_sort": "0102",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000318349",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.103",
+            "apartment": "103",
+            "areaValue": 68.2,
+            "premisesFloor": 6,
+            "num_to_sort": "0103",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000346549",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 104",
+            "apartment": "104",
+            "areaValue": 82.7,
+            "premisesFloor": 7,
+            "num_to_sort": "0104",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000321107",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 105",
+            "apartment": "105",
+            "areaValue": 50.7,
+            "premisesFloor": 7,
+            "num_to_sort": "0105",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000316242",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.106",
+            "apartment": "106",
+            "areaValue": 36.0,
+            "premisesFloor": 7,
+            "num_to_sort": "0106",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000019480",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.107",
+            "apartment": "107",
+            "areaValue": 68.1,
+            "premisesFloor": 7,
+            "num_to_sort": "0107",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000346766",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.108",
+            "apartment": "108",
+            "areaValue": 82.8,
+            "premisesFloor": 8,
+            "num_to_sort": "0108",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000316746",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 109",
+            "apartment": "109",
+            "areaValue": 50.7,
+            "premisesFloor": 8,
+            "num_to_sort": "0109",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000120452",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.110",
+            "apartment": "110",
+            "areaValue": 36.1,
+            "premisesFloor": 8,
+            "num_to_sort": "0110",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000171232",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 111",
+            "apartment": "111",
+            "areaValue": 68.1,
+            "premisesFloor": 8,
+            "num_to_sort": "0111",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000288066",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв.112",
+            "apartment": "112",
+            "areaValue": 82.0,
+            "premisesFloor": 9,
+            "num_to_sort": "0112",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000347154",
+            "addressNote": "Россия, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.113",
+            "apartment": "113",
+            "areaValue": 50.5,
+            "premisesFloor": 9,
+            "num_to_sort": "0113",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000339926",
+            "addressNote": "Россия, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв.114",
+            "apartment": "114",
+            "areaValue": 33.5,
+            "premisesFloor": 9,
+            "num_to_sort": "0114",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000288865",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.115",
+            "apartment": "115",
+            "areaValue": 68.3,
+            "premisesFloor": 9,
+            "num_to_sort": "0115",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000346723",
+            "addressNote": "Российская Федерация, Свердловская область, г.Екатеринбург, ул. Бисертская, д. 16, корп.4, кв.116",
+            "apartment": "116",
+            "areaValue": 83.1,
+            "premisesFloor": 10,
+            "num_to_sort": "0116",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000325793",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 117",
+            "apartment": "117",
+            "areaValue": 50.1,
+            "premisesFloor": 10,
+            "num_to_sort": "0117",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000339934",
+            "addressNote": "Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корп. 4, кв. 118",
+            "apartment": "118",
+            "areaValue": 33.4,
+            "premisesFloor": 10,
+            "num_to_sort": "0118",
+            "data_calculated": 0,
+            "entrance": 3
+        },
+        {
+            "objectId": "166_066010000346908",
+            "addressNote": "Российская Федерация, Свердловская область, г. Екатеринбург, ул. Бисертская, д. 16, корпус 4, кв. 119",
+            "apartment": "119",
+            "areaValue": 68.5,
+            "premisesFloor": 10,
+            "num_to_sort": "0119",
+            "data_calculated": 0,
+            "entrance": 3
+        }
+    ]
+]
