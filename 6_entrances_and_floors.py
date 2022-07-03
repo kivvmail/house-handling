@@ -128,6 +128,7 @@ for i in range(len(wrong_floors_list)):
                         elif entrance[n] == floors[j]:  # Если квартире приписан текущий этаж
                             entrance[n + 1]["premisesFloor"] = floors[j + 1]  # то следующей кв. назначить след. этаж
                             entrance[n + 1]["data_calculated"] = 1
+        all_apartments_by_entrances[i] = entrance
 
 with open("6_all_apartments_by_entrances.json", "w", encoding="utf-8") as file:
     json.dump(all_apartments_by_entrances, file, ensure_ascii=False, indent=4)
