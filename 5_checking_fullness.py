@@ -55,9 +55,21 @@ for item in list_num_to_sort:
 # # Найти данные по пропущеным номерам в "2_raw_details.json" и добавить их в записи для недостающих квартир
 for item in list_num_to_sort:
     apart = item.lstrip("0")
+    missing_apart = {
+        "objectId": "unknown",
+        "addressNote": "",
+        "apartment": apart,
+        "areaValue": 0,
+        "premisesFloor": "",
+        "num_to_sort": item,
+        "data_calculated": 1,
+    }
+    sorted_aparts.append(missing_apart)
+
     for i in range(len(raw_details)):
         if raw_details[i].get("objectData").get("objectAddress").get("apartment") == apart:
             if raw_details[i]["objectData"]["removed"] != 1:
+                sorted_aparts.remove(missing_apart)
                 missing_apart = {
                     "objectId": raw_details[i].get("objectId", "unknown"),
                     "addressNote": raw_details[i].get("objectData").get("objectAddress").get("addressNotes", ""),
@@ -68,17 +80,8 @@ for item in list_num_to_sort:
                     "data_calculated": 1,
                 }
                 sorted_aparts.append(missing_apart)
-        else:
-            missing_apart = {
-                "objectId": "unknown",
-                "addressNote": "",
-                "apartment": apart,
-                "areaValue": 0,
-                "premisesFloor": "",
-                "num_to_sort": item,
-                "data_calculated": 1,
-            }
-            sorted_aparts.append(missing_apart)
+
+            
 
 # Отсортировать после добавления записей для недостающих квартир:
 all_apartments_restored = sorted(sorted_aparts, key=lambda x: x["num_to_sort"])
@@ -99,7 +102,8 @@ for item in all_apartments_restored:
 floors_list = [item["premisesFloor"] for item in all_apartments_restored if item["premisesFloor"] != ""]
 floors_list = sorted(list(set(floors_list)))
 
-# # Рассчитать значения для отсутствующих "premisesFloor"'
+# # Рассчитать значения для отсутствующих "premisesFloor" (работает при условии, что нет двух квартир подряд
+# # с пустыми значениями для "premisesFloor"
 if missing_floors:
     for item in missing_floors:
         for i in range(1, len(all_apartments_restored) - 1):
