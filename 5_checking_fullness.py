@@ -103,7 +103,7 @@ floors_list = [item["premisesFloor"] for item in all_apartments_restored if item
 floors_list = sorted(list(set(floors_list)))
 
 # # Рассчитать значения для отсутствующих "premisesFloor" (работает при условии, что нет двух квартир подряд
-# # с пустыми значениями для "premisesFloor"
+# # с пустыми значениями для "premisesFloor")
 if missing_floors:
     for item in missing_floors:
         for i in range(1, len(all_apartments_restored) - 1):
@@ -151,21 +151,48 @@ for item in apart_indexes:
         previous_floor = all_apartments_restored[item - 1]["premisesFloor"]
         next_floor = previous_floor + 1
         all_apartments_restored[item]["premisesFloor"] = previous_floor
-        j = 1
-        previous_area = all_apartments_restored[item]["areaValue"]  # Прибавляем площадь симметрично вверх и вниз по индексу
-        next_area = all_apartments_restored[item + 1]["areaValue"]
-        while j < MAX_APARTS_AT_FLOOR:
-            if all_apartments_restored[item - j]["premisesFloor"] == previous_floor:
-                previous_area += all_apartments_restored[item - j]["areaValue"]
-            else:
-                break
-            if all_apartments_restored[item + j + 1]["premisesFloor"] == next_floor:
-                next_area += all_apartments_restored[item + j + 1]["areaValue"]
-            j += 1
-        if abs(previous_area - next_area) < DEVIATION:
-            pass  # То есть назначение all_apartments_restored[item]["premisesFloor"] = previous_floor верно.
-        else: # Переносим квартиру на следующий этаж. Верно, если не попались квартиры с площадью 0.
-            all_apartments_restored[item]["premisesFloor"] = next_floor
+        if all_apartments_restored[item]["areaValue"] == 0:
+            j = 1
+            number_at_previous = 1  # Счетчики количества квартир для previous_floor и next_floor
+            number_at_next = 0
+            while j < MAX_APARTS_AT_FLOOR:
+                if all_apartments_restored[item - j]["premisesFloor"] == previous_floor:
+                    number_at_previous += 1
+                if all_apartments_restored[item + j]["premisesFloor"] == next_floor:
+                    number_at_next += 1
+                j += 1
+            previous_area = 0  # Расчет площади этажей при данной конфигурации квартир на этажах
+            next_area = 0
+            if number_at_previous == number_at_next:
+                for k in range(item - number_at_previous + 1, item + 1):
+                    previous_area += all_apartments_restored[k]["areaValue"]
+                for n in range(item + 1, item + number_at_next + 1):
+                    next_area += all_apartments_restored[n]["areaValue"]
+                if abs(next_area - previous_area) > DEVIATION:
+                    all_apartments_restored[item]["areaValue"] = int(next_area - previous_area)
+            elif number_at_previous - number_at_next == 2:
+                all_apartments_restored[item]["premisesFloor"] = next_floor
+                for k in range(item - number_at_previous + 1, item):
+                    previous_area += all_apartments_restored[k]["areaValue"]
+                for n in range(item, item + number_at_next + 2):
+                    next_area += all_apartments_restored[n]["areaValue"]
+                if abs(next_area - previous_area) > DEVIATION:
+                    all_apartments_restored[item]["areaValue"] = int(abs(next_area - previous_area))
+        else:
+            j = 1
+            previous_area = all_apartments_restored[item][
+                "areaValue"]  # Прибавляем площадь симметрично вверх и вниз по индексу
+            next_area = all_apartments_restored[item + 1]["areaValue"]
+            while j < MAX_APARTS_AT_FLOOR:
+                if all_apartments_restored[item - j]["premisesFloor"] == previous_floor:
+                    previous_area += all_apartments_restored[item - j]["areaValue"]
+                if all_apartments_restored[item + j + 1]["premisesFloor"] == next_floor:
+                    next_area += all_apartments_restored[item + j + 1]["areaValue"]
+                j += 1
+            if abs(previous_area - next_area) < DEVIATION:
+                pass  # То есть назначение all_apartments_restored[item]["premisesFloor"] = previous_floor верно.
+            else:  # Переносим квартиру на следующий этаж.
+                all_apartments_restored[item]["premisesFloor"] = next_floor
     else:  # Обработка для этажей со значениями 1000
         previous_floor = all_apartments_restored[item - 1]["premisesFloor"]
         pre_previous_floor = previous_floor - 1
